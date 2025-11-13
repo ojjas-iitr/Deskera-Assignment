@@ -1,0 +1,2 @@
+Game Version:
+2.0.69 (build 84 148, win64)
